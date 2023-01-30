@@ -7,7 +7,7 @@ permalink: /
 
 # HODLR3D
 ## A new class of hierarchical matrices for $$N$$ body problems in three dimensions
-### Vaishnavi Gujjula, V A Kandappan, Sivaram Ambikasaran
+### V A Kandappan, Vaishnavi Gujjula and Sivaram Ambikasaran
 #### Department of Mathematics, IIT Madras
 #### <u>Preprint Version of the HODLR3D article will be updated soon..</u>
 
